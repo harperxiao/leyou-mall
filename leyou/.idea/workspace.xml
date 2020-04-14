@@ -1,0 +1,1446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f438265a-3ca6-4bf1-b527-531bd42c78be" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/lycommon/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-common/target/" />
+    <ignored path="$PROJECT_DIR$/ly-common/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-registry/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-item/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-item/leyou-item-interface/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-item/leyou-item-service/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-upload/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-search/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-goods-web/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-user/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-user/leyou-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-user/leyou-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-sms/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-auth/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-auth/leyou-auth-common/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-auth/leyou-auth-service/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-cart/target/" />
+    <ignored path="$PROJECT_DIR$/leyou-order/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-order/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1192">
+              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwaggerConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/config/SwaggerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeyouGatewayApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-gateway/src/main/java/com/leyou/LeyouGatewayApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoodsClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/client/GoodsClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-gateway/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-auth/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leyou-item/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CartController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/controller/CartController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1219">
+              <caret line="53" column="5" lean-forward="false" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CartService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/service/CartService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-322">
+              <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeyouOrderApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/LeyouOrderApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>catogories</find>
+      <find>addCart</find>
+      <find>verify</find>
+      <find>ly</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>categories</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/leyou-sms/src/main/java/com/leyou/sms/listener/SmsListener.java" />
+        <option value="$PROJECT_DIR$/leyou-user/leyou-user-service/src/test/java/RedisTest.java" />
+        <option value="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/leyou-common/src/main/java/com/leyou/common/utils/CodecUtils.java" />
+        <option value="$PROJECT_DIR$/leyou-common/pom.xml" />
+        <option value="$PROJECT_DIR$/leyou-common/src/main/java/com/leyou/common/utils/CookieUtils.java" />
+        <option value="$PROJECT_DIR$/leyou-sms/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/leyou-user/leyou-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/leyou-user/leyou-user-interface/src/main/java/com/leyou/user/pojo/User.java" />
+        <option value="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/java/com/leyou/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/java/com/leyou/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/leyou-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/LeyouAuthApplication.java" />
+        <option value="$PROJECT_DIR$/leyou-auth/leyou-auth-common/src/main/java/com/leyou/common/utils/RsaUtils.java" />
+        <option value="$PROJECT_DIR$/leyou-auth/leyou-auth-common/src/main/java/com/leyou/common/pojo/UserInfo.java" />
+        <option value="$PROJECT_DIR$/leyou-auth/leyou-auth-common/src/main/java/com/leyou/common/utils/JwtUtils.java" />
+        <option value="$PROJECT_DIR$/leyou-auth/leyou-auth-common/pom.xml" />
+        <option value="$PROJECT_DIR$/leyou-auth/leyou-auth-common/src/test/java/com/leyou/auth/test/JwtTest.java" />
+        <option value="$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/config/JwtProperties.java" />
+        <option value="$PROJECT_DIR$/leyou-user/leyou-user-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/leyou-user/leyou-user-interface/src/main/java/com/leyou/user/api/UserApi.java" />
+        <option value="$PROJECT_DIR$/leyou-auth/leyou-auth-service/pom.xml" />
+        <option value="$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/client/UserClient.java" />
+        <option value="$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/service/AuthService.java" />
+        <option value="$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/controller/AuthController.java" />
+        <option value="$PROJECT_DIR$/leyou-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/leyou-gateway/src/main/java/com/leyou/gateway/config/JwtProperties.java" />
+        <option value="$PROJECT_DIR$/leyou-gateway/src/main/java/com/leyou/gateway/config/FilterProperties.java" />
+        <option value="$PROJECT_DIR$/leyou-gateway/src/main/java/com/leyou/gateway/filter/LoginFilter.java" />
+        <option value="$PROJECT_DIR$/leyou-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/LeyouCartApplication.java" />
+        <option value="$PROJECT_DIR$/leyou-goods-web/src/main/resources/templates/item.html" />
+        <option value="$PROJECT_DIR$/leyou-cart/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/config/JwtProperties.java" />
+        <option value="$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/config/MvcConfig.java" />
+        <option value="$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/pojo/Cart.java" />
+        <option value="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/GoodsService.java" />
+        <option value="$PROJECT_DIR$/leyou-item/leyou-item-interface/src/main/java/com/leyou/item/api/GoodsApi.java" />
+        <option value="$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/client/GoodsClient.java" />
+        <option value="$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/service/CartService.java" />
+        <option value="$PROJECT_DIR$/leyou-order/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/config/JwtProperties.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/leyou-gateway/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leyou-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leyou-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leyou-item-interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leyou-item-interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="956" />
+    <option name="width" value="972" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/leyou-order" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.leyou.cart.config" />
+      <recent name="com.leyou.gateway.config" />
+      <recent name="com.leyou.search.client" />
+      <recent name="com.leyou.upload.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\leyou\leyou-auth\leyou-auth-common\src\main\java\com\leyou\common\pojo" />
+      <recent name="F:\leyou\leyou-auth\leyou-auth-common\src\main\java\com\leyou\common\utils" />
+      <recent name="F:\leyou\leyou-user\leyou-user-service\src\main\java\com\leyou\user\utils" />
+      <recent name="F:\leyou\leyou-common\src\main\java\com\leyou\common\utils" />
+      <recent name="F:\leyou\leyou-user\leyou-user-service\src\test\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LeyouSearchService">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="LeyouCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouCartApplication" />
+      <module name="leyou-cart" />
+      <envs />
+    </configuration>
+    <configuration name="LeyouGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouGatewayApplication" />
+      <module name="leyou-gateway" />
+      <envs />
+    </configuration>
+    <configuration name="LeyouGoodsWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouGoodsWebApplication" />
+      <module name="leyou-goods-web" />
+      <envs />
+    </configuration>
+    <configuration name="LeyouItemServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouItemServiceApplication" />
+      <module name="leyou-item-service" />
+      <envs />
+    </configuration>
+    <configuration name="LeyouSearchService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouSearchService" />
+      <module name="leyou-search" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.LeyouItemServiceApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.LeyouGoodsWebApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.LeyouCartApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.LeyouGatewayApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.LeyouSearchService" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.LeyouGatewayApplication" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.LeyouSearchService" />
+        <item index="2" class="java.lang.String" itemvalue="Spring Boot.LeyouCartApplication" />
+        <item index="3" class="java.lang.String" itemvalue="Spring Boot.LeyouGoodsWebApplication" />
+        <item index="4" class="java.lang.String" itemvalue="Spring Boot.LeyouItemServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f438265a-3ca6-4bf1-b527-531bd42c78be" name="Default" comment="" />
+      <created>1586268853206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586268853206</updated>
+      <workItem from="1586268858383" duration="887000" />
+      <workItem from="1586314560791" duration="1393000" />
+      <workItem from="1586404375607" duration="4740000" />
+      <workItem from="1586421087389" duration="5610000" />
+      <workItem from="1586490114034" duration="17948000" />
+      <workItem from="1586577502330" duration="22115000" />
+      <workItem from="1586664131105" duration="28721000" />
+      <workItem from="1586747492881" duration="19585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ElasticTest_createIndex - 2020.04.11 at 15h 18m 41s.xml">
+      <configuration name="ElasticTest.createIndex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticTest_createIndex - 2020.04.11 at 15h 22m 06s.xml">
+      <configuration name="ElasticTest.createIndex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FastDFSTest_testUpload - 2020.04.10 at 14h 43m 49s.xml">
+      <configuration name="FastDFSTest.testUpload" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testGenerateToken - 2020.04.12 at 20h 05m 36s.xml">
+      <configuration name="JwtTest.testGenerateToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testGenerateToken - 2020.04.12 at 20h 06m 04s.xml">
+      <configuration name="JwtTest.testGenerateToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testParseToken - 2020.04.12 at 20h 07m 22s.xml">
+      <configuration name="JwtTest.testParseToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testRsa - 2020.04.12 at 20h 04m 07s.xml">
+      <configuration name="JwtTest.testRsa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_testRedis - 2020.04.12 at 17h 09m 03s.xml">
+      <configuration name="RedisTest.testRedis" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="100999000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.49570817" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2918455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leyou-search/src/main/java/com/leyou/search/controller/SearchController.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-common/src/test/java/com/leyou/auth/test/JwtTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="41" column="276" lean-forward="false" selection-start-line="41" selection-start-column="276" selection-end-line="41" selection-end-column="276" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/java/com/leyou/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="62" column="32" lean-forward="false" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-user/leyou-user-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-user/leyou-user-interface/src/main/java/com/leyou/user/api/UserApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="45" column="21" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/service/AuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="37" column="5" lean-forward="false" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/client/UserClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/LeyouAuthApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/config/JwtProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding>
+            <element signature="e#1946#1947#0" expanded="false" />
+            <element signature="e#2402#2403#0" expanded="false" />
+            <element signature="e#2435#2436#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar!/org/apache/commons/lang3/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1610">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding>
+            <marker date="1586267490307" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1586267490307" expanded="false" signature="148:467" ph="..." />
+            <marker date="1586267490307" expanded="true" signature="790:797" ph="{}" />
+            <marker date="1586267490307" expanded="false" signature="849:860" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="898:904" ph=" }" />
+            <marker date="1586267490307" expanded="false" signature="959:970" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="990:996" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="1056:1448" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="1508:1519" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="1543:1549" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="1609:2003" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="2056:2391" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="2446:2457" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="2477:2483" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="2543:2935" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="2995:3006" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="3030:3036" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="3096:3490" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="3533:3544" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="3583:3589" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="3639:3717" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="3767:3778" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="3815:3821" ph=" }" />
+            <marker date="1586267490307" expanded="false" signature="3882:3893" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="3927:3933" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="4007:4607" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="4651:4662" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="4694:4700" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="4751:4928" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="4979:4990" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="5041:5047" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="5111:5290" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="5359:6001" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="6068:6664" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="6717:6728" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="6764:6770" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="6842:7179" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="7233:7623" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="7708:8070" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="8141:8574" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="8657:9000" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="9057:9068" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="9101:9107" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="9185:9460" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="9527:9538" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="9581:9587" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="9675:9960" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="10050:10439" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="10539:10938" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="11004:11093" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="11173:11269" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="11343:11451" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="11539:11654" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="11748:11818" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="11932:12760" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="12844:12904" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="13002:13702" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="13772:13876" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="13960:14060" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="14138:14261" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="14359:14428" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="14520:14639" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="14727:14842" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="14944:15629" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="15700:15859" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="15938:16116" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="16205:16622" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="16687:17014" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="17087:17934" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="18006:18116" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="18194:19166" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="19249:19362" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="19456:19950" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="20026:20780" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="20862:21577" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="21650:21982" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="22059:22168" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="22247:23187" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="23266:23378" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="23459:24112" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="24197:24819" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="24879:25188" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="25257:25899" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="25952:26161" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="26215:26436" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="26497:26826" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="26899:27222" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="27294:27566" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="27643:27863" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="27939:28260" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="28327:28338" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="28377:28383" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="28466:28889" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="28975:30009" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="30055:30066" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="30102:30108" ph=" }" />
+            <marker date="1586267490307" expanded="false" signature="30174:30185" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="30231:30237" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="30307:30374" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="30453:30521" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="30602:30680" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="30770:30849" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="30947:31024" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="31131:31209" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="31333:33353" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="33416:33427" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="33475:33481" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="33565:33626" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="33727:35065" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="35152:35218" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="35314:35381" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="35494:39952" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="40013:40024" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="40064:40070" ph=" }" />
+            <marker date="1586267490307" expanded="false" signature="40140:40151" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="40190:40196" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="40278:41545" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="41612:41623" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="41669:41675" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="41739:41835" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="41897:41991" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="42052:42145" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="42208:42303" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="42365:42459" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="42521:42615" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="42678:42773" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="42837:42933" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="43027:43677" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="43769:44349" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="44440:45020" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="45112:45692" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="45785:46365" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="46457:47037" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="47131:47711" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="47804:48384" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="48450:48536" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="48632:49366" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="49436:50214" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="50286:51136" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="51206:51292" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="51364:51450" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="51523:52181" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="52237:52756" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="52822:53011" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="53087:53287" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="53351:53556" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="53630:53846" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="53907:54001" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="54072:54176" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="54235:54641" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="54704:54715" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="54750:54756" ph=" }" />
+            <marker date="1586267490307" expanded="false" signature="54821:54832" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="54869:54875" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="54968:55035" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="55138:55215" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="55306:55462" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="55531:55542" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="55583:55589" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="55674:55795" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="55882:56005" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="56094:56162" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="56261:56339" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="56437:56513" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="56632:57913" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="58021:58096" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="58195:58275" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="58384:58541" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="58673:63044" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="63131:63212" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="63305:64288" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="64371:65069" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="65114:65685" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="65691:65709" ph="/**...*/" />
+            <marker date="1586267490307" expanded="false" signature="65786:65797" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="65830:65836" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="65880:66354" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="66412:67840" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="67916:68148" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="68203:68462" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="68519:68530" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="68562:68568" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="68640:68981" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="69054:70017" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="70073:70084" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="70115:70121" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="70192:70532" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="70604:71568" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="71615:71626" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="71662:71668" ph=" }" />
+            <marker date="1586267490307" expanded="false" signature="71723:71734" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="71764:71770" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="71840:72250" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="72321:72809" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="72857:72868" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="72914:72920" ph=" }" />
+            <marker date="1586267490307" expanded="false" signature="72983:72994" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="73046:73052" ph=" }" />
+            <marker date="1586267490307" expanded="false" signature="73100:73111" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="73157:73163" ph=" }" />
+            <marker date="1586267490307" expanded="false" signature="73226:73237" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="73289:73295" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="73345:74283" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="74335:75273" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="75321:76329" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="76402:76706" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="76770:77065" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="77118:77431" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="77489:77824" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="77884:78204" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="78269:78611" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="78673:78993" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="79048:79360" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="79420:79754" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="79803:80248" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="80306:80622" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="80682:81013" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="81073:81404" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="81461:82163" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="82215:82226" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="82256:82262" ph=" }" />
+            <marker date="1586267490307" expanded="false" signature="82333:82344" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="82382:82388" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="82471:82526" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="82609:82664" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="82721:83250" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="83297:83387" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="83463:83698" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="83762:83865" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="83941:84049" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="84134:84200" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="84297:85819" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="85902:86429" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="86493:86747" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="86825:87201" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="87264:89019" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="89078:89479" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="89485:89503" ph="/**...*/" />
+            <marker date="1586267490307" expanded="true" signature="89597:90853" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="90859:90877" ph="/**...*/" />
+            <marker date="1586267490307" expanded="true" signature="90986:93465" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="93471:93489" ph="/**...*/" />
+            <marker date="1586267490307" expanded="true" signature="93595:94280" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="94356:96443" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="96449:96467" ph="/**...*/" />
+            <marker date="1586267490307" expanded="true" signature="96577:98028" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="98105:98116" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="98154:98160" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="98248:98301" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="98400:98670" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="98766:99244" ph="{...}" />
+            <marker date="1586267490307" expanded="false" signature="99319:99330" ph=" { " />
+            <marker date="1586267490307" expanded="false" signature="99366:99372" ph=" }" />
+            <marker date="1586267490307" expanded="true" signature="99458:99509" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="99606:100026" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="100080:101175" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="101269:101745" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="101868:102452" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="102554:102623" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="102735:102803" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="102927:103515" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="103618:103688" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="103801:103870" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="103876:103894" ph="/**...*/" />
+            <marker date="1586267490307" expanded="true" signature="104015:104137" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="104211:104306" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="104365:104453" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="104514:104619" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="104687:105155" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="105225:105717" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="105781:106326" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="106387:106819" ph="{...}" />
+            <marker date="1586267490307" expanded="true" signature="106876:107387" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-common/src/main/java/com/leyou/common/utils/CookieUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3473">
+          <caret line="160" column="0" lean-forward="false" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="36" column="24" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-gateway/src/main/java/com/leyou/gateway/config/JwtProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#865#866#0" expanded="false" />
+            <element signature="e#898#899#0" expanded="false" />
+            <element signature="e#950#951#0" expanded="false" />
+            <element signature="e#994#995#0" expanded="false" />
+            <element signature="e#1033#1034#0" expanded="false" />
+            <element signature="e#1065#1066#0" expanded="false" />
+            <element signature="e#1118#1119#0" expanded="false" />
+            <element signature="e#1160#1161#0" expanded="false" />
+            <element signature="e#1197#1198#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1282#1283#0" expanded="false" />
+            <element signature="e#1326#1327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-gateway/src/main/java/com/leyou/gateway/config/FilterProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-gateway/src/main/java/com/leyou/gateway/filter/LoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="78" column="1" lean-forward="false" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1022#1023#0" expanded="false" />
+            <element signature="e#1050#1051#0" expanded="false" />
+            <element signature="e#1096#1097#0" expanded="false" />
+            <element signature="e#1120#1121#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-registry/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-registry/src/main/java/com/leyou/LyRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-goods-web/src/main/java/com/leyou/goods/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-goods-web/src/main/java/com/leyou/goods/service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1127">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-goods-web/src/main/java/com/leyou/goods/service/GoodsHtmlService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-709">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/controller/AuthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="65" column="111" lean-forward="false" selection-start-line="65" selection-start-column="111" selection-end-line="65" selection-end-column="111" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-cart/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="43" column="48" lean-forward="false" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/config/JwtProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/config/MvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/pojo/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2056#2057#0" expanded="false" />
+            <element signature="e#2087#2088#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="203" column="5" lean-forward="false" selection-start-line="203" selection-start-column="5" selection-end-line="203" selection-end-column="5" />
+          <folding>
+            <element signature="e#5802#5803#0" expanded="false" />
+            <element signature="e#5862#5863#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="77" column="71" lean-forward="false" selection-start-line="76" selection-start-column="4" selection-end-line="77" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-item/leyou-item-interface/src/main/java/com/leyou/item/api/GoodsApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="55" column="56" lean-forward="false" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/LeyouCartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-goods-web/src/main/resources/templates/item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="666" column="27" lean-forward="false" selection-start-line="666" selection-start-column="27" selection-end-line="666" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/utils/PayHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-order/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="56" column="17" lean-forward="false" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/config/JwtProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/order/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1840">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/LeyouOrderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1192">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-order/src/main/java/com/leyou/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-gateway/src/main/java/com/leyou/LeyouGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/client/GoodsClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="53" column="5" lean-forward="false" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/service/CartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322">
+          <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-auth/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leyou-item/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>leyou-item-interface</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.commons:commons-lang3:3.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
